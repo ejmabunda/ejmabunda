@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**A Software Engineer trainee, with an interest in front-end development**.
+**A Software Engineering trainee, with an interest in front-end development**.
 
 Software Engineer trainee at [ALX Africa](https://www.alxafrica.com/)
 
