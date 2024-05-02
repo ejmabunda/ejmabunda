@@ -1,12 +1,10 @@
 ### Hey there 👋
-**A Software Engineering trainee, with an interest in front-end development**.
+**A Software Engineering student, at ALX Africa**.
 
-Software Engineer trainee at [ALX Africa](https://www.alxafrica.com/)
+Software Engineer student at [ALX Africa](https://www.alxafrica.com/)
 
 **I'm currently**:
-- 👨‍🎓 Working on **TDD** and **OOP** at ALX.
-- 👨‍💻 Learning about package managers and front-end frameworks in my spare time.
-- ✔ Active at [Frontend Mentor](https://www.frontendmentor.io/profile/ejmabunda), completing challenges.
+- 👨‍🎓 Learning about about databases at ALX.
 
 **How to reach me:**
 
