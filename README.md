@@ -4,7 +4,7 @@
 Software Engineer student at [ALX Africa](https://www.alxafrica.com/)
 
 **I'm currently**:
-- 👨‍🎓 Learning about about databases at ALX.
+- Pursuing a Software Engineering certification.
 
 **How to reach me:**
 
